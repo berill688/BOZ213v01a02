@@ -1,1 +1,2 @@
 # BOZ213v01a02
+Explaina öğrencilerinin öğrendikleri konuları yazılı veya sözlü olarak kendi cümleleriyle açıklamalarını sağlayan yapay zekâ destekli bir öğrenme platformu olarak tasarlanmıştır. Öğrenciler öğrendikleri konuları yazılı veya sözlü olarak anlatacak, yapay zekâ ise bu açıklamaları değerlendirerek eksik ve yanlış öğrenmeleri belirleyecek ve kişiselleştirilmiş geri bildirimler sunacaktır. Projenin temel amacı, öğrencilerin ezberlemek yerine konuları gerçekten anlayarak öğrenmelerini ve kendilerini ifade etme becerilerini geliştirmelerini sağlamaktır.
